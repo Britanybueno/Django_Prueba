@@ -1,0 +1,13 @@
+P {
+    font-size : 20pt;
+    color:red;
+    font-family : arial,helvetica;
+    font-weight : normal;
+}
+H1 {font-size : 36pt; font-family : TimesNewRoman;text-align :center;background-color :lightyellow;}
+BODY{
+    background-color : green;
+    font-family : arial;
+    color : white;
+    font-size : 20pt;
+}
